@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="prjCalculaCirculo.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="22"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ucalculacirculo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uCalculaCirculo"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="17"/>
+        <CursorPos X="6" Y="46"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="13">
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="28" Column="33"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="39" Column="3" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="50" Column="3" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="48" Column="79" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="37" Column="29" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="33" Column="15" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="42" Column="59" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="44" Column="51" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="41" Column="9" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="43" Column="8" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="48" Column="26" TopLine="23"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="20" Column="52" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ucalculacirculo.pas"/>
+        <Caret Line="48" TopLine="5"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
